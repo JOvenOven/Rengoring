@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Rengoring</string>
+    <string name="main_iniciarsesion">Iniciar Sesión</string>
+    <string name="main_facebook">Iniciar con Facebook</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="login_nombre">Correo</string>
+    <string name="login_contraseña">Contraseña</string>
+    <string name="login_recordarme">Recordar contraseña</string>
+    <string name="login_entrar">E N T R A R</string>
+    <string name="login_olvidemicontra">¿Olvidaste tu contraseña?</string>
+    <string name="login_registrarse">CREAR CUENTA</string>
+    <string name="login_mensaje">¿Aún no tienes cuenta?</string>
+    <string name="title_activity_navegador">navegador</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="crearcuenta_fechanacimiento">Fecha de nacimiento</string>
+    <string name="crearcuenta_email">Correo electrónico</string>
+    <string name="crearcuenta_nombre">Nombre</string>
+    <string name="crearcuenta_repetircontraseña">Repetir contraseña</string>
+    <string name="crearcuenta_alcaldia">Seleccione su alcaldía</string>
+
+    <string name="nav_agregarresiduo">Agregar Residuo</string>
+    <string name="nav_historial">Historial</string>
+    <string name="nav_acercade">Acerca de</string>
+    <string name="nav_maps">Maps</string>
+    <string name="nav_cerrarsesion">Cerrar Sesión</string>
+
+    <string name="agreres_agregarresiduo">A G R E G A R</string>
+
+    <string name="que_es_i"> Rengoring es un software que da a conocer al usuario acerca del daño continuo generado por los residuos resultantes de la ciudad de México y por alcaldía a través del registro en estadísticas y proyecciones generado por los mismos usuarios. El cliente pueda visualizar exitosamente lo que genera él y la sociedad para que, de esta manera, se genere una conciencia de disminución y clasificación de residuos para su posterior reciclado.</string>
+    <string name="que_es_ii"> En la aplicación móvil de Rengoring el usuario puede gestionar sus residuos, así como tener conocimientos de los botes de basura y centros de reciclaje más cercanos a su localización y así no tenga que esperar a encontrar uno en la calle.</string>
+    <string name="que_es_iii"> En la aplicación web de Rengoring el usuario puede consultar tanto sus proyecciones y tendencias al generar residuos como los de su alcaldíay de la CDMX.</string>
+
+
+</resources>

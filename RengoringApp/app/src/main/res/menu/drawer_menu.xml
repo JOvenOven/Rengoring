@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_agregarresiduos"
+            android:icon="@drawable/ic_basura"
+            android:title="@string/nav_agregarresiduo" />
+
+        <item
+            android:id="@+id/nav_historial"
+            android:icon="@drawable/ic_historial"
+            android:title="@string/nav_historial" />
+
+        <item
+            android:id="@+id/nav_acercade"
+            android:icon="@drawable/ic_acercade"
+            android:title="@string/nav_acercade" />
+
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/ic_maps"
+            android:title="@string/nav_maps" />
+    </group>
+
+
+    <item android:title="Usuario">
+        <menu>
+            <item android:id="@+id/nav_cerrarsesion"
+                android:icon="@drawable/ic_cerrarsesion"
+                android:title="@string/nav_cerrarsesion"/>
+        </menu>
+    </item>
+
+</menu>
